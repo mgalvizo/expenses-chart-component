@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
--   [Solution URL](https://your-solution-url.com)
+-   [Solution URL](https://www.frontendmentor.io/solutions/expenses-chart-component-with-reactjs-and-styledcomponents-ZLbigTeURH)
 -   [Live Site URL](https://mgalvizo.github.io/expenses-chart-component/)
 
 ## My process
